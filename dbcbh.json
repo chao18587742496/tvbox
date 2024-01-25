@@ -13,7 +13,7 @@
   "spider":"https://gitee.com/chao231/jar/raw/master/fan.txt",
 
    "sites":[
-    {"key":"豆豆","name":"chao231","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"豆豆","name":"🎟豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
      {"key":"南瓜","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "火狐",
