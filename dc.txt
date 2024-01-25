@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://atomgit.com/chao231/zhibo/raw/master/dbcbh.json",
+            "url": "https://atomgit.com/chao231/zhibo/raw/main/dbcbh.json",
             "name": "🚀atomgit线路"
         },                                    
        {
