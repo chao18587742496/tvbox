@@ -10,7 +10,7 @@
 
   ],
 
-  "spider":"https://gitee.com/chao231/jar/raw/master/fan.txt",
+  "spider":"https://gitee.com/chao231/tvbox/raw/master/fan.txt",
 
    "sites":[
     {"key":"豆豆","name":"🎟豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
