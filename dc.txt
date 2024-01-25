@@ -7,7 +7,7 @@
             "name": "1️⃣gitee线路"
         },          
         {
-            "url": "https://atomgit.com/chao231/zhibo/raw/main/dbcbh.json",
+            "url": "https://atomgit.com/chao231/zhibo/raw/main/cbh.json",
             "name": "2️⃣atomgit线路"
         },                                    
         {
