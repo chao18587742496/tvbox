@@ -1,0 +1,18 @@
+
+{
+    "urls": [
+        {
+            "url": "https://atomgit.com/chao231/zhibo/raw/master/cbh.json",
+            "name": "🚀atomgit线路"
+        },                                    
+       {
+            "url": "http://饭太硬.top/tv",
+            "name": "🚀饭太硬线路"
+         },
+               {
+            "url": "https://gitee.com/chao231/tvbox/raw/main/dbcbh.json",
+            "name": "🚀gitee线路"
+        }                                   
+	
+                ]
+}
