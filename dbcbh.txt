@@ -10,7 +10,7 @@
 
   ],
 
-  "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705767525343/fan.txt",
+  "spider":"https://gitee.com/chao231/jar/raw/master/fan.txt",
 
    "sites":[
     {"key":"豆豆","name":"chao231","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
