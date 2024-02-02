@@ -16,7 +16,7 @@
          },
          {
             "url": "https://box.iqinu.com",
-            "name": "4️⃣龙门配置接口"
+            "name": "4️⃣龙门接口"
          }
                                       
 	
