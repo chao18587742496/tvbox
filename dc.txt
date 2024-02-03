@@ -4,11 +4,11 @@
 
        { 
             "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json",
-            "name": "1️⃣gitee线路"
+            "name": "1️⃣号自用线路"
         },          
         {
             "url": "https://atomgit.com/chao231/zhibo/raw/main/dbcbh.json",
-            "name": "2️⃣atomgit线路"
+            "name": "2️⃣号自用线路"
         },                                    
         {
             "url": "http://饭太硬.top/tv",
@@ -16,7 +16,7 @@
          },
          {
             "url": "https://box.iqinu.com",
-            "name": "4️⃣龙门接口"
+            "name": "4️⃣号龙门接口"
          }
                                       
 	
