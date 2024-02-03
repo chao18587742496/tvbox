@@ -3,11 +3,11 @@
     "urls": [
 
        { 
-            "url": "https://gitee.com/chao231/tvbox/raw/main/dbcbh.json",
+            "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json",
             "name": "1️⃣gitee线路"
         },          
         {
-            "url": "https://atomgit.com/chao231/zhibo/raw/main/cbh.json",
+            "url": "https://atomgit.com/chao231/zhibo/raw/main/dbcbh.json",
             "name": "2️⃣atomgit线路"
         },                                    
         {
