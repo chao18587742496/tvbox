@@ -13,12 +13,7 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "3️⃣饭太硬线路"
-         },
-         {
-            "url": "https://box.iqinu.com",
-            "name": "4️⃣号龙门接口"
-         }
-                                      
+         }                        
 	
                 ]
 }
