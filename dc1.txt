@@ -1,20 +1,14 @@
 {
     "urls": [
+
+       { 
+            "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json",
+            "name": "1号自用线路"
+        },          
         {
-            "url": "https://atomgit.com/chao231/zhibo/raw/master/cbh.json",
-            "name": "茶杯狐线路"
-        },    
- {
-            "url": "http://饭太硬.top/tv",
-            "name": "饭太硬线路"
-   }  ,                                            
-        {
-            "url": "https://pan.shangui.cc/f/X1pdfd/cbh.json",
-            "name": "跑路云盘线路"
-        } ,
-   {
-            "url": "https://atomgit.com/chao231/zhibo/raw/master/dbcbh.json",
-            "name": "豆瓣线路"        
-       }               
-    ]
+            "url": "https://atomgit.com/chao231/zhibo/raw/main/cbh.json",
+            "name": "2号自用线路"
+        }                   
+
+                ]
 }
