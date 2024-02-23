@@ -56,65 +56,7 @@
     "searchUrl": "/s?q={{key}},{\n  \"webView\": true\n}",
     "weight": 0
   },
- {
-    "bookSourceComment": "http://m.ibiqu.net\nhttp://m.biquge5200.cc\nhttp://m.biqu520.net\nhttp://m.b5200.net\nhttp://m.b520.cc\nhttp://m.biqu520.net\nhttp://m.biqu5200.net\nhttp://m.abcbiquge.com\n下载站点http://downnovel.com\n",
-    "bookSourceGroup": "3",
-    "bookSourceName": "💠 笔趣阁",
-    "bookSourceType": 0,
-    "bookSourceUrl": "     http://m.ibiqu.net",
-    "customOrder": -3716,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "exploreUrl":"[{\"title\":\"榜单\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},{\"title\":\"日点击榜\",\"url\":\"/top-dayvisit-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"周点击榜\",\"url\":\"/top-weekvisit-{{page}}/\",\"s
-tyle\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"月点击榜\",\"url\":\"/top-monthvisit-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"总点击榜\",\"url\":\"/top-allvisit-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_
-flexGrow\":1}},{\"title\":\"总收藏榜\",\"url\":\"/top-goodnum-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"字数排行\",\"url\":\"/top-size-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"日推荐榜\",\"url\":\"/top-dayvote
--{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"周推荐榜\",\"url\":\"/top-weekvote-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"月推荐榜\",\"url\":\"/top-monthvote-{{page}}/\",\"style\":{\"layout_flexBasisPercent\"
-:0.25,\"layout_flexGrow\":1}},{\"title\":\"总推荐榜\",\"url\":\"/top-allvote-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"最新入库\",\"url\":\"/top-postdate-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"最近更新\",\"u
-rl\":\"/top-lastupdate-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},{\"title\":\"分类\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},{\"title\":\"玄幻\",\"url\":\"/sort-1-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_f
-lexGrow\":1}},{\"title\":\"仙侠\",\"url\":\"/sort-2-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"都市\",\"url\":\"/sort-3-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"历史\",\"url\":\"/sort-4-{{page}}/\",\"style\
-":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"游戏\",\"url\":\"/sort-5-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"科幻\",\"url\":\"/sort-6-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":
-\"言情\",\"url\":\"/sort-7-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"同人\",\"url\":\"/sort-8-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"灵异\",\"url\":\"/sort-9-{{page}}/\",\"style\":{\"layout_flexBasisPerc
-ent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"奇幻\",\"url\":\"/sort-10-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"竞技\",\"url\":\"/sort-11-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"武侠\",\"url\":\"/sort-
-12-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"军事\",\"url\":\"/sort-13-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"校园\",\"url\":\"/sort-14-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_f
-lexGrow\":1}},{\"title\":\"官场\",\"url\":\"/sort-15-{{page}}/\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}},{\"title\":\"\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":0.2,\"layout_flexGrow\":1}}]",
-    "lastUpdateTime": 1703504276932,
-    "respondTime": 17000,
-    "ruleBookInfo": {
-      "author": ".block_txt2@a.2@text",
-      "coverUrl": ".block_img2@img@src",
-      "downloadUrls": "",
-      "intro": ".intro_info@html##(^|[。！？]+[”」）】]?)##$1<br>",
-      "kind": ".block_txt2@p.3:4:5@text##.*：|小说",
-      "lastChapter": ".block_txt2@a.4@text##正文卷.|正文.|VIP卷.|默认卷.|卷_|VIP章节.|免费章节.|章节目录.|最新章节.|[\\(（【].*?[求更票谢乐发订合补加架字修Kk].*?[】）\\)]",
-      "name": ".block_txt2@a.1@text",
-      "tocUrl": ".ablum_read[0]@a.1@href##(\\/)(?!.*\\1)##_1/"
-    },
-    "ruleContent": {
-      "content": ".text@p@html",
-      "nextContentUrl": "text.下一页@href",
-      "replaceRegex": "##\\s*【.*下一页.*】\\s*|\\s*【.*下载.*】\\s*|www.*|跪求：手机小说全集"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "a.2@text",
-      "bookList": ".line",
-      "bookUrl": "a.1@href",
-      "checkKeyWord": "",
-      "coverUrl": "a.1@href<js>\nvar id = result.match(/(\\d+)\\/?$/)[1];\nvar iid = parseInt(id/1000);\n'http://r.m.biqu520.net/files/article/image/'+iid+'/'+id+'/'+id+'s.jpg';\n</js>",
-      "intro": "",
-      "kind": "a.0@text##\\[|\\]|小说",
-      "name": "a.1@text"
-    },
-    "ruleToc": {
-      "chapterList": ".chapter@li@a",
-      "chapterName": "text##正文卷.|正文.|VIP卷.|默认卷.|卷_|VIP章节.|免费章节.|章节目录.|最新章节.|[\\(（【].*?[求更票谢乐发订合补加架字修Kk].*?[】）\\)]",
-      "chapterUrl": "href##$##,{'webView': true}",
-      "nextTocUrl": "<js>page=result.match(/\\(第\\d+\\/(\\d+)页\\)当前\\d+条\\/页/)[1];\nlist=[];for(i=2;i<=page;i++){list.push(baseUrl.replace(/_1/,'_'+i))}\nlist</js>##$##,{'webView': true}"
-    },
-    "searchUrl": "/modules/article/waps.php?keyword={{key}}&pn={{page}},{'webView': true}",
-    "weight": 0
-  },
+ 
 {
     "bookSourceComment": "// Error: 发现目录失效, 搜索失效",
     "bookSourceGroup": "笔趣,发现目录失效,搜索失效",
