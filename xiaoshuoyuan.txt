@@ -1,5 +1,5 @@
-［
-  {
+[
+ {
     "bookSourceComment": "同站一大堆",
     "bookSourceGroup": "❤️源仓库❤️",
     "bookSourceName": "笔趣阁90",
@@ -167,4 +167,4 @@ lexGrow\":1}},{\"title\":\"官场\",\"url\":\"/sort-15-{{page}}/\",\"style\":{\"
     "weight": 0
   }
 
-］
+]
