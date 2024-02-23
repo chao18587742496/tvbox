@@ -1,3 +1,4 @@
+［
   {
     "bookSourceComment": "同站一大堆",
     "bookSourceGroup": "❤️源仓库❤️",
@@ -165,3 +166,5 @@ lexGrow\":1}},{\"title\":\"官场\",\"url\":\"/sort-15-{{page}}/\",\"style\":{\"
     "searchUrl": "http://www.b5200.net/modules/article/search.php?searchkey={{key}}",
     "weight": 0
   }
+
+］
