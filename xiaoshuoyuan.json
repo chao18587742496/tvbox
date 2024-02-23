@@ -56,7 +56,72 @@
     "searchUrl": "/s?q={{key}},{\n  \"webView\": true\n}",
     "weight": 0
   },
- 
+ {
+    "bookSourceComment": "// Error: 搜索正文失效",
+    "bookSourceGroup": "搜索正文失效,👍 优质",
+    "bookSourceName": "👍 笔趣阁b5200",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://m.b5200.net",
+    "bookUrlPattern": "",
+    "customOrder": -46643,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "",
+    "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63\"}",
+    "lastUpdateTime": 1616916768737,
+    "loginUrl": "",
+    "respondTime": 181047,
+    "ruleBookInfo": {
+      "author": "//div[@class='block_txt2']/p[3]/a[1]/text()",
+      "coverUrl": "//div[@class='block_img2']/img/@src",
+      "init": "",
+      "intro": "//div[@class='intro_info']/text()",
+      "kind": "//div[@class='block_txt2']/p[4]/a/text()",
+      "lastChapter": "//div[@class='block_txt2']/p[7]/a/text()",
+      "name": "//div[@class='block']/div[@class='block_txt2']/h2/a/text()",
+      "tocUrl": "//div[@class='cover']/div[@class='ablum_read'][1]/span[2]/a/@href",
+      "wordCount": "//div[@class='block_txt2']/p[6]/text()"
+    },
+    "ruleContent": {
+      "content": "class.text@html##一秒记住【丝路.*|如遇断更，未更新，可到.*|如果使用QQ浏览器被畅读.*|\\s*本章未完，请点击下一页继续阅读》》\\s*",
+      "nextContentUrl": "",
+      "sourceRegex": "",
+      "webJs": ""
+    },
+    "ruleExplore": {
+      "author": "",
+      "bookList": "",
+      "bookUrl": "",
+      "coverUrl": "",
+      "intro": "",
+      "kind": "",
+      "lastChapter": "",
+      "name": "",
+      "wordCount": ""
+    },
+    "ruleSearch": {
+      "author": "//a[3]/text()",
+      "bookList": "//div[@class='cover']/p",
+      "bookUrl": "//a[2]/@href",
+      "coverUrl": "",
+      "intro": "",
+      "kind": "//a[1]/text()##\\[|\\]",
+      "lastChapter": "",
+      "name": "//a[2]/text()",
+      "wordCount": ""
+    },
+    "ruleToc": {
+      "chapterList": "-//div[@class='cover']/ul[@class='chapter']/li",
+      "chapterName": "//a/text()",
+      "chapterUrl": "//a/@href",
+      "isVip": "",
+      "nextTocUrl": "@js:\nvar n=result.match(/\\/(\\d+)页/)[1];\nvar list=[];\nfor(var i=2;i<=n;i++){list.push(baseUrl.replace(/-(\\d+)\\//,\"-$1_\")+i+\"_1\");}\nlist",
+      "updateTime": ""
+    },
+    "searchUrl": "http://m.b5200.net/modules/article/waps.php?keyword={{key}}",
+    "weight": 0
+  },
 {
     "bookSourceComment": "// Error: 发现目录失效, 搜索失效",
     "bookSourceGroup": "笔趣,发现目录失效,搜索失效",
