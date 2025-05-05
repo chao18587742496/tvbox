@@ -6,17 +6,14 @@
             "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json",
             "name": "1️⃣号自用线路"
         },          
-        {
-            "url": "https://gitee.com/chao231/tvbox/raw/main/dbcbh.json",
-            "name": "2️⃣号自用线路"
-        },                                    
+                                          
         {
             "url": "http://www.饭太硬.com/tv/",
-            "name": "3️⃣饭太硬线路"
+            "name": "2️⃣饭太硬线路"
          } , 
           {
             "url": "https://box.iqinu.com",
-            "name": "4️⃣龙门路线"
+            "name": "3️⃣龙门路线"
          }   
 	
                 ]
