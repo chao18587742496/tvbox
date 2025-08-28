@@ -3,7 +3,7 @@
     "urls": [
 
        { 
-            "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json",
+            "url": "https://gitee.com/chao231/tvbox/raw/main/1.json",
             "name": "1️⃣号自用线路"
         },          
                                           
