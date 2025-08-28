@@ -3,7 +3,7 @@
     "urls": [
 
        { 
-            "url": "https://gitee.com/chao231/tvbox/raw/main/1.json",
+            "url": "https://files.zohopublic.com.cn/public/workdrive-public/download/85aka1f8a8013cb944a5188d413a0ddb059bd?x-cli-msg=%7B%22linkId%22%3A%221HyajWCjMWB-36Az6%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D",
             "name": "1️⃣号自用线路"
         },          
                                           
